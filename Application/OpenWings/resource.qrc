@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/images/logo">
+        <file>assets/images/logo/OpenWings-logo.jpg</file>
+    </qresource>
+</RCC>
